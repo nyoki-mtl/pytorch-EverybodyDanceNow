@@ -1,0 +1,6 @@
+[submodule "src/pytorch_Realtime_Multi-Person_Pose_Estimation"]
+	path = src/pytorch_Realtime_Multi-Person_Pose_Estimation
+	url = https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation.git
+[submodule "src/pix2pixHD"]
+	path = src/pix2pixHD
+	url = https://github.com/NVIDIA/pix2pixHD.git
