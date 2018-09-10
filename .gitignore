@@ -116,3 +116,6 @@ data/
 checkpoints/
 
 # results
+results/
+
+notebook/None0000000.png
