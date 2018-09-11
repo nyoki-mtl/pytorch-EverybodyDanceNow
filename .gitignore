@@ -110,7 +110,8 @@ model/
 tmp/
 
 # data
-data/
+data/source
+data/target
 
 # checkpoint
 checkpoints/
